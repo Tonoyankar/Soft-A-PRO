@@ -1,0 +1,47 @@
+@charset "utf-8";
+body{font:normal 16px sans-serif;border:1px solid #000;background-color:#8fe909;background-image:url(img/bckg.jpg);background-repeat:repeat-x;text-align:left;width:976px;max-width:976px;margin-top:16px;margin-left:auto;margin-right:auto}
+a{color:#64a520;text-decoration:none}
+img{border:0 none}
+a:hover{text-decoration:underline}
+p{padding-right:18px;padding-left:18px;text-indent:16px;width:940px;max-width:940px}
+h1{text-transform:uppercase;font-size:110%;text-align:center}
+ul{padding-left:10px;padding-right:10px}
+li{padding-bottom:10px}
+h1 span{background-color:#477b1d;padding:0 10px}
+#top{height:30px;background-color:#477b1d;border-bottom:4px solid #000}
+#name{height:30px;float:left;border-right:4px solid #000}
+#name a{color:#fff;font-weight:700;font-size:160%;text-transform:uppercase;background-color:#70c32e;text-decoration:none;padding-left:24px;padding-right:24px}
+#slogan{float:left;color:#fff;text-transform:uppercase;padding-left:24px;padding-top:8px}
+#contact_us{float:right;background-color:#7abb37;height:20px;padding:2px 4px}
+#contact_us a{color:#fff;text-transform:uppercase;text-decoration:none}
+#logo{background:url(img/head_bckg.jpg) no-repeat #78ce31}
+#logo_text{float:right;width:200px;height:60px;background-color:#70c32e;margin:16px 20px 18px 0;color:#fff;padding:10px;font-weight:700}
+#menu{background:#70c32e;height:18px;width:900px;clear:both;border:1px solid #a8f534;text-align:center;color:#fff;padding-bottom:4px;padding-top:4px;margin:0 auto 0 auto}
+#menu a{color:#fff;text-transform:uppercase;font-weight:700;text-decoration:none;margin:0 16px}
+#menu a:hover{color:#d4ffa1}
+#text{margin:0;width:976px;max-width:976px}
+#text li{list-style:none;padding-left:16px;background:url(img/li.gif) no-repeat 0 4px;line-height:18px}
+#textshort{padding:0}
+#textshort li{list-style:none;padding-left:16px;padding-right:16px;background:url(img/li.gif) no-repeat 0 4px;line-height:18px}
+#sidebar{float:right;width:240px;padding:20px 20px 0 20px;font-size:60%}
+#sidebar a{font-weight:700}
+#sidebar h2{margin:0;padding:0 0 20px;text-transform:uppercase;color:#000;font-size:110%}
+#main{float:right;background-color:#fff;width:976px;max-width:976px}
+#footer{background:url(img/footer_bckg.jpg) repeat-x #000;height:56px;clear:both}
+#left_footer{border:0;float:left;padding:20px 0 0 30px;color:#fff;font-size:80%}
+#left_footer a{color:#fff}
+#left_footer a:hover{text-decoration:none}
+.center_footer{border:0;float:left;padding:12px 18px 0;color:#fff;font-size:75%}
+.center_footer a{color:#fff}
+.center_footer a:hover{text-decoration:none}
+.fb-like{width:140px;height:20px;border:none;overflow:hidden;background-color:transparent;float:left;padding:18px 0 0 50px;color:#fff;font-size:75%}
+.fb-like a{color:#fff}
+.fb-like a:hover{text-decoration:none}
+#g-plusone{overflow:hidden;background-color:transparent;border:none;float:left;padding:18px 30px 0 0;color:#fff;font-size:75%}
+#g-plusone a{color:#fff}
+#g-plusone a:hover{text-decoration:none}
+#right_footer{float:right;padding:20px 30px 0 0;color:#fff;text-align:right;font-size:80%}
+#right_footer a{color:#fff}
+.myiframe{width:140px;height:20px;border:none;overflow:hidden;background-color:transparent}
+.left_img{float:left;width:312px;height:312px}
+.right_text{font-weight:700;font-size:160%}
